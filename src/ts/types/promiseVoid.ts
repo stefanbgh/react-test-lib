@@ -1,0 +1,1 @@
+export type promiseVoid = () => Promise<void>;
